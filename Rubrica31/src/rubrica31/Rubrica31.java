@@ -18,6 +18,9 @@ public class Rubrica31 {
         // TODO code application logic here
         System.out.println("STEFANY LILIBETH PALACIOS LOOR");
         System.out.println("QUINTO B");
+        
+        System.out.println("5 COMMITS ");
+        System.out.println(" Proyecto de una comunidad Open Source  Comando Fork");
     }
     
 }
